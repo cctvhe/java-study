@@ -3,8 +3,11 @@
  */
 package unit3;
 
+import java.util.Scanner;
+
 public class Study_02 {
     public static void main(String[] args){
-        System.out.println("注释");
+        Scanner in = new Scanner(System.in);
+
     }
 }
